@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: NGH authenication-service
+Implementation-Version: v1.1
+Built-By: deb
+Implementation-Vendor-Id: com.hsc.authenication
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/authenication-service
+Created-By: Maven Integration for Eclipse
+

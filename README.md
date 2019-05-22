@@ -1,2 +1,17 @@
-# spring-boot-rest
-This is a basic project which illustrates different concept of REST based concept......This is a basic service which generates a JWT token and handle custom exceptions too.....
+# Getting Started
+This is a spring boot application and structured as PackageAsLayerd principle.
+
+
+ 
+
+
+# Technology
+----------------
+=> Java-8
+=> Spring Boot 2.1.3
+=> 
+=> 
+
+ 
+ # Build Steps
+----------------
